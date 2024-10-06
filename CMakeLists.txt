@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.30.4)
+project(myproject LANGUAGES C VERSION 1.0)  
+set(CMAKE_C_STANDARD 99)
+set(CMAKE_C_STANDARD_REQUIRED ON)
+add_executable(main main.c showHello.c)
