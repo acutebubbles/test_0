@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "c_deque.h": "c",
+        "c_iterator.h": "c"
+    }
+}

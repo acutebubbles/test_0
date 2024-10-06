@@ -1,5 +1,6 @@
 #include <stdio.h>
-void hello();
+#include "include.h"
+#include "showHello.h"
 int main(){
     printf("Hello!\n");
     hello();
