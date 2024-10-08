@@ -2,6 +2,16 @@
     "files.associations": {
         "stdio.h": "c",
         "c_deque.h": "c",
-        "c_iterator.h": "c"
+        "c_iterator.h": "c",
+        "c_array.h": "c",
+        "c_algorithms.h": "c",
+        "c_stl_lib.h": "c",
+        "c_list.h": "c",
+        "c_map.h": "c",
+        "rb-tree.h": "c",
+        "c_set.h": "c",
+        "include.h": "c",
+        "classnameset.h": "c",
+        "unit.h": "c"
     }
 }

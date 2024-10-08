@@ -1,5 +1,7 @@
 #ifndef __INCLUDE_H__
 #define __INCLUDE_H__
+#include <stdio.h>
+#include <string.h>
 #include "c_errors.h"
 #include "c_stl_lib.h"
 #include "c_algorithms.h"
